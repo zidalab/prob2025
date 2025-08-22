@@ -1,40 +1,64 @@
-# ZidaLab Wiki
+# 概率论与数理统计 课程网站
 
-本仓库是 ZidaLab 课题组的实验室 Wiki，旨在为组内成员提供学习资料、实验规范、科研指导和内部流程文档，帮助大家更高效地协作与成长。
+欢迎来到“概率论与数理统计”课程的官方网站。本仓库托管了课程网站的全部源代码与内容。
 
-## 📚 内容结构
+## 网站链接
 
-- 首页及导航配置请参考 [`index.md`](./index.md) 和 [`_config.yml`](./_config.yml)。
-- 主要内容文档均位于 [`docs`](./docs) 目录下，采用 Markdown 格式编写，便于阅读与维护。
+**[https://zidalab.github.io/prob2025](https://zidalab.github.io/prob2025)**
 
-## 🚀 欢迎贡献
+## 课程简介
 
-我们鼓励课题组所有成员参与 Wiki 的完善和更新！你可以：
+本课程面向 **2024级生物医学工程02班**，系统讲授概率论与数理统计的核心概念与方法，包括：
 
-- 修正或补充已有文档内容
-- 添加新的实验流程、会议记录、写作建议等
-- 报告或修复链接失效、内容缺失等问题
+-   随机事件与概率
+-   随机变量及其分布
+-   多维分布与数字特征
+-   大数定律与中心极限定理
+-   抽样分布与参数估计
 
-### 如何贡献
+课程强调在医学与工程领域中的数据建模与推断思维，致力于理论与应用的结合。
 
-1. **Fork 本仓库** 或直接在本仓库新建分支。
-2. 在 `docs` 目录下以 Markdown 格式撰写或修改内容，可在vscode内预览markdown文档。
-3. 提交 Pull Request，注明你的修改内容和目的。
-4. 管理员审核通过后合并。
+## 授课信息
 
-如有疑问或建议，也欢迎直接联系李老师。
+-   **时间**：第1–18周，周二第7–9节（14:15–16:40）
+-   **地点**：深圳大学丽湖校区
 
-## 🛠️ 本地预览（optional）
+## 教材
 
-如本地已安装[Jekyll](https://jekyllrb.com/) 和 [Bundler](https://bundler.io/)，可在本地预览 Wiki 网站，然后在项目根目录下运行：
+-   **《概率论与数理统计》（第四版）**，盛骤、谢式千、潘承毅，高等教育出版社。
 
-```bash
-bundle install
-bundle exec jekyll serve
-```
 
-浏览器访问 [http://localhost:4000](http://localhost:4000) 即可预览。
+## 技术栈
 
----
+本网站使用 [Jekyll](https://jekyllrb.com/) 构建，并采用 [Just the Docs](https://just-the-docs.github.io/just-the-docs/) 主题。
 
-感谢你的贡献，让我们的 Wiki 更加完善！
+## 如何本地运行
+
+1.  **克隆仓库**:
+    ```bash
+    git clone https://github.com/zidalab/prob2025.git
+    cd prob2025
+    ```
+
+2.  **安装依赖**:
+    确保你已经安装了 [Ruby](https://www.ruby-lang.org/en/documentation/installation/) 和 [Bundler](https://bundler.io/)。
+    ```bash
+    bundle install
+    ```
+
+3.  **启动服务**:
+    ```bash
+    bundle exec jekyll serve
+    ```
+    网站将在 `http://localhost:4000` 上运行。
+
+## 贡献
+
+欢迎对课程内容提出修改建议或报告问题。你可以通过以下方式贡献：
+
+-   在 [Issues](https://github.com/zidalab/prob2025/issues) 页面提交问题。
+-   Fork 本仓库，进行修改后提交 Pull Request。
+
+## 许可
+
+本课程网站的内容遵循 [MIT License](LICENSE) 许可。
