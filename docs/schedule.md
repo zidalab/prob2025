@@ -19,8 +19,8 @@ nav_order: 2
 | **日期** | **章节** | **作业（第二章习题）** |
 | :--- | :--- | :--- |
 | 9月23日 | 随机变量、分布律 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap2-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap2-Note1.pdf)| **HW 2**{: .label .label-green } 3, 9, 12, 14, 19, 23, 26, 30, 34, 37 <br><br>**HW 1 due**{: .label .label-red } |
-| 9月30日 | 分布函数、连续型随机变量与概率密度 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap2-Note2.pdf) | **HW 2**{: .label .label-green } 3, 9, 12, 14, 19, 23, 26, 30, 34, 37  |
-| 10月7日 | 随机变量的函数分布，小结 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap2-Note3.pdf) | **HW 2**{: .label .label-green } 3, 9, 12, 14, 19, 23, 26, 30, 34, 37  |
+| 9月28日 | 分布函数、连续型随机变量与概率密度 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap2-Note2.pdf) | **HW 2**{: .label .label-green } 3, 9, 12, 14, 19, 23, 26, 30, 34, 37  |
+| 9月30日 | 随机变量的函数分布，小结 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap2-Note3.pdf) | **HW 2**{: .label .label-green } 3, 9, 12, 14, 19, 23, 26, 30, 34, 37  |
 
 ## 第三章 多维随机变量及其分布
 
