@@ -10,7 +10,7 @@ nav_order: 2
 
 | **日期** | **章节** | **作业（第一章习题）** |
 | :--- | :--- | :--- |
-| 9月2日 | 随机试验、样本空间与事件、概率 <br>[**课件**{: .label .label-blue }](../assets/docs/Chap1-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap1-Note1.pdf) | **HW 1**{: .label .label-green } 2, 3(2) |
+| 9月2日 | 随机试验、样本空间与事件、概率 <br>[**课件**{: .label .label-blue }](../assets/docs/Chap1-Lecture.pdf) [**课件v2**{: .label .label-blue }](../assets/docs/Chap1-Lecture-v2.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap1-Note1.pdf) | **HW 1**{: .label .label-green } 2, 3(2) |
 | 9月9日 | 古典概型、条件概率、全概率公式、贝叶斯公式 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap1-Note2.pdf) | **HW 1**{: .label .label-green } 6, 10, 12, 14(1), 18, 22, 23，26 |
 | 9月16日 | 独立性、小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap1-Note3.pdf) [**练习**{: .label .label-yellow }](../assets/docs/Chap1-Test.pdf) | **HW 1**{: .label .label-green } 29, 38, 40 |
 
