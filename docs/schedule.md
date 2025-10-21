@@ -27,9 +27,9 @@ nav_order: 2
 
 | **日期** | **章节** | **作业（第三章习题）** |
 | :--- | :--- | :--- |
-| 10月21日 | 二维随机变量与边缘分布 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap3-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note1.pdf) | **HW 3**{: .label .label-green } 3, 5, 9, 13, 15, 17 <br>**HW 2 due**{: .label .label-red } |
-| 10月28日 | 条件分布、相互独立 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note2.pdf) | **HW 3**{: .label .label-green } 3, 5, 9, 13, 15, 17  |
-| 11月4日 | 两个随机变量的函数分布，小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note3.pdf) | **HW 3**{: .label .label-green } （3, 5, 9, 13, 15, 17  |
+| 10月21日 | 二维随机变量与边缘分布 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap3-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note1.pdf) | **HW 3**{: .label .label-green } 3, 5, 9 <br>**HW 2 due**{: .label .label-red } |
+| 10月28日 | 条件分布 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note2.pdf) | **HW 3**{: .label .label-green } 13, 15  |
+| 11月4日 | 相互独立、小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note3.pdf) | **HW 3**{: .label .label-green } 17  |
 
 ## 第四章 随机变量的数字特征
 
