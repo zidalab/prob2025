@@ -29,33 +29,33 @@ nav_order: 2
 | :--- | :--- | :--- |
 | 10月21日 | 二维随机变量与边缘分布 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap3-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note1.pdf) | **HW 3**{: .label .label-green } 3, 5, 9 <br>**HW 2 due**{: .label .label-red } |
 | 10月28日 | 条件分布 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note2.pdf) | **HW 3**{: .label .label-green } 13, 15  |
-| 11月4日 | 相互独立、小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note3.pdf) | **HW 3**{: .label .label-green } 17  |
+| 11月4日 | 相互独立、小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap3-Note3.pdf) [**练习**{: .label .label-yellow }](../assets/docs/Chap3-Test.pdf)| **HW 3**{: .label .label-green } 17  |
 
 ## 第四章 随机变量的数字特征
 
 | **日期** | **章节** | **作业（第四章习题）** |
 | :--- | :--- | :--- |
-| 11月4日 | 数学期望 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap4-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note1.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32 <br>**HW 3 due**{: .label .label-red } |
-| 11月11日 | 方差、协方差与相关系数 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note2.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32  |
-| 11月18日 | 矩与协方差矩阵，小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note3.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32  |
+| 11月11日 | 数学期望 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap4-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note1.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32 <br>**HW 3 due**{: .label .label-red } |
+| 11月18日 | 方差、协方差与相关系数 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note2.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32  |
+| 11月25日 | 矩与协方差矩阵，小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note3.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32  |
 
 ## 第五章 大数定律与中心极限定理
 
 | **日期** | **章节** | **作业（第五章习题）** |
 | :--- | :--- | :--- |
-| 11月25日 | 大数定律与中心极限定理 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap5-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap5-Note.pdf) | **HW 5**{: .label .label-green } 待定 <br>**HW 4 due**{: .label .label-red } |
+| 12月2日 | 大数定律与中心极限定理 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap5-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap5-Note.pdf) | **HW 5**{: .label .label-green } 待定 <br>**HW 4 due**{: .label .label-red } |
 
 ## 第六章 样本及抽样分布
 
 | **日期** | **章节** | **作业（第六章习题）** |
 | :--- | :--- | :--- |
-| 12月2日 | 随机样本、抽样分布 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 待定 <br>**HW 5 due**{: .label .label-red } |
-| 12月9日 | 直方图、箱线图，小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note2.pdf) | **HW 6**{: .label .label-green } 待定 |
+| 12月9日 | 随机样本、抽样分布 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 待定 <br>**HW 5 due**{: .label .label-red } |
+| 12月16日 | 直方图、箱线图，小结与复习 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note2.pdf) | **HW 6**{: .label .label-green } 待定 |
 
 ## 第七章 参数估计
 
 | **日期** | **章节** | **作业（第七章习题）** |
 | :--- | :--- | :--- |
-| 12月16日 | 点估计、最大似然估计 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap7-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note1.pdf)| **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11 <br>**HW 6 due**{: .label .label-red } |
-| 12月23日 | 区间估计、总体均值与方差的区间估计 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note2.pdf) | **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11  |
+| 12月23日 | 点估计、最大似然估计 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap7-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note1.pdf)| **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11 <br>**HW 6 due**{: .label .label-red } |
+| 12月30日 | 区间估计、总体均值与方差的区间估计 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note2.pdf) | **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11  |
 | 12月30日 | 总结与复习 <br>  [**课件**{: .label .label-blue }](../assets/docs/Review.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap2-Lecture.pdf)| **HW 7 due**{: .label .label-red } |
