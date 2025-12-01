@@ -42,14 +42,14 @@ nav_order: 2
 
 | **日期** | **章节** | **作业（第五章习题）** |
 | :--- | :--- | :--- |
-| 11月25日 | 大数定律与中心极限定理 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap5-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap5-Note.pdf) | **HW 5**{: .label .label-green } 待定 <br>**HW 4 due**{: .label .label-red } |
+| 11月25日 | 大数定律与中心极限定理 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap5-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap5-Note1.pdf) | **HW 5**{: .label .label-green } 无作业 <br>**HW 4 due**{: .label .label-red } |
 
 ## 第六章 样本及抽样分布
 
 | **日期** | **章节** | **作业（第六章习题）** |
 | :--- | :--- | :--- |
 | 12月2日 | 运动会停课
-| 12月9日 | 随机样本、抽样分布、直方图、箱线图 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 待定 <br>**HW 5 due**{: .label .label-red } |
+| 12月9日 | 随机样本、抽样分布、直方图、箱线图 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 待定 |
 
 ## 第七章 参数估计
 
