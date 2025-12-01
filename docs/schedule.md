@@ -36,7 +36,7 @@ nav_order: 2
 | **日期** | **章节** | **作业（第四章习题）** |
 | :--- | :--- | :--- |
 | 11月11日 | 数学期望、方差 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap4-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note1.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32 <br>**HW 3 due**{: .label .label-red } |
-| 11月18日 | 协方差与相关系数、 矩与协方差矩阵 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note2.pdf) | **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32  |
+| 11月18日 | 协方差与相关系数、 矩与协方差矩阵 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap4-Note2.pdf) [**练习**{: .label .label-yellow }](../assets/docs/Chap4-Test.pdf)| **HW 4**{: .label .label-green } 3, 7, 8, 9, 22(2), 27, 31, 32  |
 
 ## 第五章 大数定律与中心极限定理
 
