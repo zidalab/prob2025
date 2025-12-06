@@ -49,7 +49,7 @@ nav_order: 2
 | **日期** | **章节** | **作业（第六章习题）** |
 | :--- | :--- | :--- |
 | 12月2日 | 运动会停课
-| 12月9日 | 随机样本、抽样分布、直方图、箱线图 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 待定 |
+| 12月9日 | 随机样本、抽样分布、直方图、箱线图 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 1, 3, 8, 10 |
 
 ## 第七章 参数估计
 
@@ -63,3 +63,9 @@ nav_order: 2
 | **日期** | **章节** | **作业（无新作业）** |
 | :--- | :--- | :--- |
 | 12月30日 | 总结与复习 <br>  [**课件**{: .label .label-blue }](../assets/docs/Review.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap2-Lecture.pdf)| **HW 7 due**{: .label .label-red } |
+
+## 期末考试
+
+| **日期** | **内容** | **备注** |
+| :--- | :--- | :--- |
+| 待定 | [**试题类型**{: .label .label-blue }](../assets/docs/Final_sample.pdf) |  |
