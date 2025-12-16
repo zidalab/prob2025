@@ -56,7 +56,7 @@ nav_order: 2
 | **日期** | **章节** | **作业（第七章习题）** |
 | :--- | :--- | :--- |
 | 12月16日 | 点估计、最大似然估计 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap7-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note1.pdf)| **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11 <br>**HW 6 due**{: .label .label-red } |
-| 12月23日 | 区间估计、总体均值与方差的区间估计 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note2.pdf) | **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11  |
+| 12月23日 | 估计量的评选标准 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note2.pdf) | **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11  |
 
 ## 复习与总结
 
