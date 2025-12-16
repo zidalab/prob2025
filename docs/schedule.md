@@ -68,4 +68,4 @@ nav_order: 2
 
 | **日期** | **内容** | **备注** |
 | :--- | :--- | :--- |
-| 待定 | [**试题类型**{: .label .label-blue }](../assets/docs/Final_sample.pdf) |  |
+| 1月6日 | [**试题类型**{: .label .label-blue }](../assets/docs/Final_sample.pdf) | **四方楼西410** |
