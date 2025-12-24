@@ -49,14 +49,14 @@ nav_order: 2
 | **日期** | **章节** | **作业（第六章习题）** |
 | :--- | :--- | :--- |
 | 12月2日 | 运动会停课
-| 12月9日 | 随机样本、抽样分布、直方图、箱线图 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**课件v2**{: .label .label-blue }](../assets/docs/Chap6-Lecture_v2.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) | **HW 6**{: .label .label-green } 1, 3, 8, 10 |
+| 12月9日 | 随机样本、抽样分布、直方图、箱线图 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap6-Lecture.pdf) [**课件v2**{: .label .label-blue }](../assets/docs/Chap6-Lecture_v2.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap6-Note1.pdf) [**练习**{: .label .label-yellow }](../assets/docs/Chap6-Test.pdf)[**练习答案**{: .label .label-yellow }](../assets/docs/Chap6-Test-With-Answer.pdf)| **HW 6**{: .label .label-green } 1, 3, 8, 10 |
 
 ## 第七章 参数估计
 
 | **日期** | **章节** | **作业（第七章习题）** |
 | :--- | :--- | :--- |
-| 12月16日 | 点估计、最大似然估计 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap7-Lecture.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note1.pdf)| **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11 <br>**HW 6 due**{: .label .label-red } |
-| 12月23日 | 估计量的评选标准 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note2.pdf) | **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11  |
+| 12月16日 | 点估计、最大似然估计 <br>  [**课件**{: .label .label-blue }](../assets/docs/Chap7-Lecture.pdf) [**课件v2**{: .label .label-blue }](../assets/docs/Chap7-Lecture_V2.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note1.pdf)| **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11 <br>**HW 6 due**{: .label .label-red } |
+| 12月23日 | 估计量的评选标准 <br>  [**要点**{: .label .label-purple }](../assets/docs/Chap7-Note2.pdf) [**练习**{: .label .label-yellow }](../assets/docs/Chap7-Test.pdf)[**练习答案**{: .label .label-yellow }](../assets/docs/Chap7-Test-With-Answer.pdf)| **HW 7**{: .label .label-green } 2(2,3), 3, 10, 11  |
 
 ## 复习与总结
 
@@ -68,4 +68,4 @@ nav_order: 2
 
 | **日期** | **内容** | **备注** |
 | :--- | :--- | :--- |
-| 1月6日 | [**试题类型**{: .label .label-blue }](../assets/docs/Final_sample.pdf) | **四方楼西410** |
+| 1月6日 | [**试题类型**{: .label .label-blue }](../assets/docs/Final_sample.pdf) | **19:00-21:00，四方楼西410** |
