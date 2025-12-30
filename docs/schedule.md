@@ -62,7 +62,7 @@ nav_order: 2
 
 | **日期** | **章节** | **作业（无新作业）** |
 | :--- | :--- | :--- |
-| 12月30日 | 总结与复习 <br>  [**课件**{: .label .label-blue }](../assets/docs/Review.pdf) [**要点**{: .label .label-purple }](../assets/docs/Chap2-Lecture.pdf)| **HW 7 due**{: .label .label-red } |
+| 12月30日 | 总结与复习 <br>  [**课件**{: .label .label-blue }](../assets/docs/Review.pdf) | **HW 7 due**{: .label .label-red } |
 
 ## 期末考试
 
